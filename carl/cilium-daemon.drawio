@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T09:53:15.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9VNgeKKJAFkMP3nRCZJU" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T09:56:40.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CkrbaaY8ft-t6Qlf4xwG" version="22.0.4" type="github">
   <diagram name="第 1 页" id="8txZNbQ0SxlxXvtWB0ZA">
     <mxGraphModel dx="1194" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           <mxGeometry x="45.16129032258065" y="29.076719576719576" width="63.22580645161291" height="40.1058201058201" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-22" value="certification" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-36">
-          <mxGeometry x="155.80645161290323" y="239.6322751322751" width="76.7741935483871" height="40.1058201058201" as="geometry" />
+          <mxGeometry x="155.81" y="239.63" width="84.19" height="40.11" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-23" value="endpoint" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-36">
           <mxGeometry x="45.16129032258065" y="99.26190476190476" width="63.22580645161291" height="40.1058201058201" as="geometry" />
@@ -104,13 +104,13 @@
           <mxGeometry x="162.5806451612903" y="169.44708994708992" width="63.22580645161291" height="40.1058201058201" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-30" value="egressgateway" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-36">
-          <mxGeometry x="155.80645161290323" y="309.8174603174603" width="94.83870967741936" height="40.1058201058201" as="geometry" />
+          <mxGeometry x="150" y="309.82" width="110.65" height="40.11" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-31" value="clustermesh" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-36">
-          <mxGeometry x="38.38709677419355" y="241.63756613756613" width="76.7741935483871" height="40.1058201058201" as="geometry" />
+          <mxGeometry x="30" y="241.64" width="85.16" height="40.11" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-32" value="l2announcement" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-36">
-          <mxGeometry x="24.838709677419356" y="309.8174603174603" width="103.87096774193549" height="40.1058201058201" as="geometry" />
+          <mxGeometry x="10" y="309.82" width="118.71" height="40.11" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-34" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-36">
           <mxGeometry x="115.16129032258065" y="348.9206349206349" width="54.193548387096776" height="30.079365079365076" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="120" y="99" width="80" height="40.11" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-55" value="l2responder" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-61">
-          <mxGeometry x="11.610000000000014" y="99" width="80" height="40.11" as="geometry" />
+          <mxGeometry x="7.419999999999999" y="99" width="88.39" height="40.11" as="geometry" />
         </mxCell>
         <mxCell id="jR49aNxmQRyQQmH85-RO-56" value="tables" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="jR49aNxmQRyQQmH85-RO-61">
           <mxGeometry x="11.610000000000014" y="169.45" width="80" height="40.11" as="geometry" />
